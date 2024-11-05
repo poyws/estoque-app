@@ -23,3 +23,4 @@ Este projeto é um aplicativo web em PHP que ajuda empresas a gerenciar seu esto
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
+2. Edite o arquivo config.php para configurar suas credenciais de banco de dados.
