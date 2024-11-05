@@ -1,0 +1,7 @@
+Crie um banco de dados MySQL chamado estoque_db e execute a seguinte tabela:
+
+CREATE TABLE products (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    quantity INT NOT NULL
+);
