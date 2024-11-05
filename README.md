@@ -37,11 +37,16 @@ Gere relatórios acessando a seção de relatórios.
 Contribuições são bem-vindas! Se você deseja colaborar, por favor siga os passos abaixo:
 
 Faça um fork do repositório.
+
 Crie uma nova branch (git checkout -b feature/nome-da-sua-feature).
+
 Faça suas alterações e commite (git commit -m 'Adicionando nova funcionalidade').
+
 Envie para o repositório remoto (git push origin feature/nome-da-sua-feature).
+
 Abra um Pull Request.
-Licença
+
+# **Licença:**
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
 
 # **Contato**
